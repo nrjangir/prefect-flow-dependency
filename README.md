@@ -22,7 +22,7 @@ A utility to manage **flow-level dependencies** in [Prefect 2.x](https://docs.pr
 ## 📦 Installation
 
 ```bash
-pip install git+https://github.com/<your-username>/prefect-flow-dependency.git
+pip install  https://github.com/nrjangir/prefect-flow-dependency.git
 ```
 
 ## 🧩 Usage Example
